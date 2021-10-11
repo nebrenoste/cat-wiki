@@ -1,0 +1,77 @@
+body{
+    background-color: #EFD3B4;
+    font-family: Arvo;
+    color: rgb(126, 50, 50);
+    
+}
+
+#page{
+    padding: 50px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.info{
+    background-color: rgb(126, 50, 50);;
+    color: #A69887;
+    display: inline;
+    padding: 2%;
+    font-size: 15px;
+    text-align: center;
+    width: 10px;
+    border-radius: 10px;
+        
+}
+
+.info:hover{
+    transition: all .2s linear;
+    background-color: #EFD3B4;
+}
+
+
+.text{
+    font-size: 15px;
+    text-align: justify;
+}
+
+.name{
+    text-align: center; 
+    font-size: 50px;
+}
+
+.cat1{
+    width: 200px;
+    float: left;
+    border-radius: 10px;
+}
+
+.cat2{
+    width: 200px;
+    float: right;
+    border-bottom: 15px;
+}
+
+.cat{
+    width: 150px;
+    float: right;
+
+}
+
+hr{
+    border: none;
+    background-color: rgb(126, 50, 50);
+    color: rgb(126, 50, 50);
+    height: 2px;
+}
+
+.footer{
+    text-align: center;
+    list-style: none;
+    display: inline;
+    padding: 30px;
+}
+
+h2{
+    text-decoration: underline;
+}
+
